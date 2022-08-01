@@ -1,0 +1,11 @@
+---Nómina----
+Document Number: 10101
+Name: David
+Last Name:  Sanchez
+Daysworked: 2
+Salary per month: 1000000
+Base salary: 66666.66666666667
+Subsidy Trans: 7806.666666666667
+Salary and trans74473.33333333334
+Discount: 7447.333333333335
+Total Salary: 67026.00000000001
